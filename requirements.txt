@@ -16,6 +16,7 @@ pathspec==0.11.1
 platformdirs==3.1.1
 pycodestyle==2.10.0
 PyYAML==6.0
+python-dotenv==1.0.0
 sqlparse==0.4.3
 tablib==3.3.0
 tomli==2.0.1
